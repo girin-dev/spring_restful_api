@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3c9ccfb-3faa-4204-ab42-38ee5df6966f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Yfblwto7bkrARv7Uj8x7XtAgtb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3c9ccfb-3faa-4204-ab42-38ee5df6966f" name="Default Changelist" comment="" />
+      <created>1583336750925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583336750925</updated>
+      <workItem from="1583336755247" duration="36000" />
+      <workItem from="1583336801465" duration="200000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583336919785">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1583336919785" />
+    <state x="740" y="218" key="FileChooserDialogImpl" timestamp="1583336987701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="218" key="FileChooserDialogImpl/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1583336987701" />
+    <state x="619" y="217" key="NewModule_or_Project.wizard" timestamp="1583336997493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="619" y="217" key="NewModule_or_Project.wizard/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1583336997493" />
+    <state x="652" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1583336809493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1583336809493" />
+    <state x="339" y="130" key="new project wizard" timestamp="1583336981362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="339" y="130" key="new project wizard/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1583336981362" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/oneit/springdemo/SpringdemoApplication.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/oneit/springdemo/SpringdemoApplication.java</url>
+          <line>8</line>
+          <properties class="com.oneit.springdemo.SpringdemoApplication" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

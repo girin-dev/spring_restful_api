@@ -40,9 +40,10 @@ public class UserRepository {
                 .orElse(new User(0 ,"no user"));
     }
 
-    public void insertUser(User user){
+    public User insertUser(User user){
         System.out.println("사용자 등록::repository..");
         users.add(user);
+        return user;
     }
 
     public void updateUser(User user) {
